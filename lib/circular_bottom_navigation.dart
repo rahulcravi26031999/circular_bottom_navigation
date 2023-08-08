@@ -37,7 +37,7 @@ class CircularBottomNavigation extends StatefulWidget {
     this.circleSize = 58,
     this.circleStrokeWidth = 4,
     this.iconsSize = 32,
-    this.selectedIconColor = Colors.white,
+    this.selectedIconColor = Colors.green,
     this.normalIconColor = Colors.grey,
     this.animationDuration = const Duration(milliseconds: 300),
     this.selectedCallback,
